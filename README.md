@@ -66,7 +66,7 @@
      |789 Silvia Almeida  | 789 Silvia Almeida 7.2    |
      |...                 | ...                       |
      
-  - -Na terra do Alberto Alexandre (localmente conhecido por Auexande Aubeto), o dialeto local é semelhante ao português com duas exceções:
+  - Na terra do Alberto Alexandre (localmente conhecido por Auexande Aubeto), o dialeto local é semelhante ao português com duas exceções:
     - Não dizem os Rs;
     - Trocam os Ls por Us.
  
