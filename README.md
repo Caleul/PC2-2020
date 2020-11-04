@@ -12,10 +12,10 @@
  
  - Descrição do trabalho:
  
- -- Criar uma classe chamada Funcionario, com os atributos matricula (Integer), nome (String), dataDeNascimento (DataPadraoBrasil) e cargo (String).
- -- Crie um construtor para a classe Funcionario para receber todos os seus atributos.
- -- Crie (sobrescreva) o método toString para exibir a saída do funcionário formatada. 
- -- Crie uma classe chamada CadastraFuncionario, com o método main, e use uma das forma de leitura dos dados para ler um funcionário e exibir seus dados na tela.
+ - - Criar uma classe chamada Funcionario, com os atributos matricula (Integer), nome (String), dataDeNascimento (DataPadraoBrasil) e cargo (String).
+ - - Crie um construtor para a classe Funcionario para receber todos os seus atributos.
+ - - Crie (sobrescreva) o método toString para exibir a saída do funcionário formatada. 
+ - - Crie uma classe chamada CadastraFuncionario, com o método main, e use uma das forma de leitura dos dados para ler um funcionário e exibir seus dados na tela.
  
  ## Trabalho final
  
